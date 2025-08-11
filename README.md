@@ -1,24 +1,18 @@
-📽️ usePopcorn
-usePopcorn is a React movie tracking app. It allows users to search for movies via the OMDb API, view details, and build a custom list of watched movies.
+# 🍿 usePopcorn – Movie Discovery & Rating App  
 
-🚀 Features
-🔍 Search movies using the OMDb API
+A React-based movie search and rating application that allows users to explore movies via the **OMDb API**, view detailed information, and add personal ratings to a watchlist.  
 
-📄 View movie details, including rating, release year, and summary
+## 🌐 Live Demo  
+[Click here to view](https://use-popcorn-alpha-umber.vercel.app/)  
 
-⭐ Add movies to a watched list and rate them yourself
+## ✨ Features  
+- 🔍 Search for movies in real-time using **OMDb API**  
+- 📄 View movie details: poster, release year, IMDb rating, and plot  
+- ⭐ Rate movies and save them to your personal watchlist  
+- 🗑 Remove movies from your watchlist  
+- 📊 Track your average personal rating and IMDb rating comparison  
 
-📊 View average user rating and total watched runtime
-
-🧠 Built with React hooks and custom hook useMovies()
-
-🛠️ Tech Stack
-React
-
-Custom Hooks
-
-OMDb API
-
-JavaScript (ES6)
-
-CSS
+## 🛠 Tech Stack  
+- **React** (Hooks & useReducer)  
+- **OMDb API** for fetching movie data  
+- **CSS3 / Tailwind CSS** for styling  
